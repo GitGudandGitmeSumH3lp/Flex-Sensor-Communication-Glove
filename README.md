@@ -22,9 +22,9 @@ An Arduino-based assistive device for individuals with mobility impairments, usi
 <img width="816" height="774" alt="image" src="https://github.com/user-attachments/assets/c6e9cb06-4430-475e-bce0-068f12a33bb0" />
 
 ### Software, IDEs, and Tools
-* [cite_start]**Programming:** C++ in the Arduino IDE [cite: 306]
-* [cite_start]**Design & Modeling:** AutoCAD, Blender [cite: 440]
-* [cite_start]**Communication Protocol:** SMS Messaging, Blynk.io [cite: 440]
+* **Programming:** C++ in the Arduino IDE
+* **Design & Modeling:** AutoCAD, Blender 
+* **Communication Protocol:** SMS Messaging, Blynk.io 
 
 
 ### Hardware Materials
