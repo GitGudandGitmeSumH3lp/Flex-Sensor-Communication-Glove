@@ -23,7 +23,18 @@ An Arduino-based assistive device for individuals with mobility impairments, usi
 
 
 ### Hardware Materials
+* Arduino Mega 2560 
+* Flex Sensor 
+* GSM SIM 808 Module 
+* ADXL335 Accelerometer 
+* 5V Power Bank 
+* 12V Exhaust Fan 
+* Liquid Crystal I2C 
+* Speaker 
+* DFPlayer Mini
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/7c71be84-3b1e-484a-9e14-e8a715d3b01e" />
+
+
 
 ### Documentation
 <img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/6056e1a0-d3dd-43cb-9f28-0386192b7762" />
