@@ -1,8 +1,6 @@
 # Development of Multi-Mode Bending Flex Communication System using Arduino Mega with SMS Module
 An Arduino-based assistive device for individuals with mobility impairments, using flex sensors for gesture-based communication and SMS alerts.
 
-**➡️ [Read the Full Research Paper (PDF)](./Full_Research_Paper.pdf)**
-
 ### ✨ Key Features
 
 * **Gesture-Based Command System:** Translates distinct finger flexions into five pre-programmed commands using strategically placed flex sensors in a glove.
@@ -13,7 +11,8 @@ An Arduino-based assistive device for individuals with mobility impairments, usi
     * **Remote:** Automatically sends an SMS text message to a designated caregiver via a GSM SIM 808 module, ensuring help can be summoned from a distance.
 * **Integrated Motion Sensing:** Includes an ADXL355 accelerometer to detect motion, providing an additional layer of data for gesture interpretation and system control.
 * **User-Centric Design:** The entire system is specifically engineered to address the communication challenges faced by individuals with mobility impairments and the elderly, aiming to increase their convenience and confidence
-
+  
+**➡️ [Read the Full Research Paper (PDF)](./Full_Research_Paper.pdf)**
 
 ### Schematic Diagram
 <img width="611" height="649" alt="image" src="https://github.com/user-attachments/assets/d460fb4d-c5fb-4da9-953b-96d3dfe1925b" />
@@ -42,7 +41,10 @@ An Arduino-based assistive device for individuals with mobility impairments, usi
 
 
 ### Documentation
+**➡️ [Live Demonstration](assets/demo.mp4)**
+
 <img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/6056e1a0-d3dd-43cb-9f28-0386192b7762" />
+
 
 
 ### Authors
